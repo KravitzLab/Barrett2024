@@ -3,6 +3,6 @@
 
 
 
-![Figure 3](https://github.com/KravitzLab/Barrett2024/blob/main/Images/Figure4.png)
+![Figure 4](https://github.com/KravitzLab/Barrett2024/blob/main/Images/Figure4.png)
 
 
