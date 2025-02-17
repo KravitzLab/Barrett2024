@@ -3,4 +3,4 @@
 
 
 
-![Figure 1](https://github.com/KravitzLab/Barrett2024/blob/main/Images/Figure2.png)
+![Figure 2](https://github.com/KravitzLab/Barrett2024/blob/main/Images/Figure2.png)
