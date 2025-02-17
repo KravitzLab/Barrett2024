@@ -3,5 +3,5 @@
 
 
 
-![Figure 2](https://github.com/KravitzLab/Barrett2024/blob/main/Images/Figure2.png)
+![Figure 3](https://github.com/KravitzLab/Barrett2024/blob/main/Images/Figure3.png)
 
