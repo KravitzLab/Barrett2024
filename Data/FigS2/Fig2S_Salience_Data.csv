@@ -1,0 +1,51 @@
+mouse,date,weight,Weight gain,day,phase,Calories,Diet,Chow Consumed (g)
+M1,4-Dec,25.21,0,0,0,0,Baseline,0
+M2,4-Dec,23.89,0,0,0,0,Baseline,0
+M3,4-Dec,26.14,0,0,0,0,Baseline,0
+M4,4-Dec,23.42,0,0,0,0,Baseline,0
+M5,4-Dec,29.68,0,0,0,0,Baseline,0
+F1,4-Dec,18.43,0,0,0,0,Baseline,0
+F2,4-Dec,18.31,0,0,0,0,Baseline,0
+F3,4-Dec,19.71,0,0,0,0,Baseline,0
+F4,4-Dec,19.89,0,0,0,0,Baseline,0
+F5,4-Dec,21.52,0,0,0,0,Baseline,0
+M1,7-Dec,25.03,-0.18,3,1,8.979666668,Free with chow,2.896666667
+M2,7-Dec,23.86,-0.03,3,1,6.427333332,Free with chow,2.073333333
+M3,7-Dec,26.03,-0.11,3,1,9.196666668,Free with chow,2.966666667
+M4,7-Dec,23.1,-0.32,3,1,8.773,Free with chow,2.83
+M5,7-Dec,29.6,-0.08,3,1,11.408,Free with chow,3.68
+F1,7-Dec,18.68,0.25,3,1,13.10266667,Free with chow,4.226666667
+F2,7-Dec,18.36,0.05,3,1,9.341333332,Free with chow,3.013333333
+F3,7-Dec,18.8,-0.91,3,1,5.600666668,Free with chow,1.806666667
+F4,7-Dec,19.66,-0.23,3,1,7.574333332,Free with chow,2.443333333
+F5,7-Dec,21.37,-0.15,3,1,10.013,Free with chow,3.23
+M1,12-Dec,27.48,2.45,8,2,19.00024,Free with HFD,3.626
+M2,12-Dec,27.87,4.01,8,2,22.34336,Free with HFD,4.264
+M3,12-Dec,29.25,3.22,8,2,19.18888,Free with HFD,3.662
+M4,12-Dec,25.47,2.37,8,2,19.0736,Free with HFD,3.64
+M5,12-Dec,34.02,4.42,8,2,23.39136,Free with HFD,4.464
+F1,12-Dec,20.41,1.73,8,2,17.95224,Free with HFD,3.426
+F2,12-Dec,19.3,0.94,8,2,15.2484,Free with HFD,2.91
+F3,12-Dec,20.45,1.65,8,2,64.37864,Free with HFD,12.286
+F4,12-Dec,22.27,2.61,8,2,17.49112,Free with HFD,3.338
+F5,12-Dec,22.62,1.25,8,2,15.2484,Free with HFD,2.91
+M1,17-Dec,26.19,-1.29,13,3,10.01888,FR1 with HFD,1.912
+M2,17-Dec,27.79,-0.08,13,3,11.30792,FR1 with HFD,2.158
+M3,17-Dec,28.39,-0.86,13,3,9.65208,FR1 with HFD,1.842
+M4,17-Dec,24.57,-0.9,13,3,7.34648,FR1 with HFD,1.402
+M5,17-Dec,31.43,-2.59,13,3,10.02936,FR1 with HFD,1.914
+F1,17-Dec,20.02,-0.39,13,3,9.80928,FR1 with HFD,1.872
+F2,17-Dec,20.48,1.18,13,3,11.1088,FR1 with HFD,2.12
+F3,17-Dec,20.55,0.1,13,3,15.65712,FR1 with HFD,2.988
+F4,17-Dec,23.41,1.14,13,3,14.33664,FR1 with HFD,2.736
+F5,17-Dec,21.5,-1.12,13,3,10.01888,FR1 with HFD,1.912
+M1,22-Dec,26.32,0.13,18,4,10.97256,FR1 Salience with HFD,2.094
+M2,22-Dec,28.14,0.35,18,4,14.45192,FR1 Salience with HFD,2.758
+M3,22-Dec,29.85,1.46,18,4,12.3664,FR1 Salience with HFD,2.36
+M4,22-Dec,24.63,0.06,18,4,12.1044,FR1 Salience with HFD,2.31
+M5,22-Dec,32.27,0.84,18,4,15.04928,FR1 Salience with HFD,2.872
+F1,22-Dec,20.03,0.01,18,4,12.07296,FR1 Salience with HFD,2.304
+F2,22-Dec,20.32,-0.16,18,4,12.18824,FR1 Salience with HFD,2.326
+F3,22-Dec,21,0.45,18,4,19.10504,FR1 Salience with HFD,3.646
+F4,22-Dec,22.14,-1.27,18,4,9.55776,FR1 Salience with HFD,1.824
+F5,22-Dec,21.16,-0.34,18,4,12.37688,FR1 Salience with HFD,2.362
